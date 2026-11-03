@@ -1,18 +1,18 @@
 
 # Dependencies
-node_modules/
+/node_modules/
 
 # Environment variables and secrets
 .env
 .env.*
-!.env.example
+/!.env.example
 
 # Test execution results
-test-results/
-playwright-report/
+/test-results/
+/playwright-report/
 
 # Reports
-reports/
+/reports/
 
 # Screenshots
-screenshots/
+/screenshots/
